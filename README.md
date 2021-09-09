@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @amuck-gorilla
-- 👀 I’m interested in Python, HTML, CSS, JS, and Web Design
-- 💻 I know basic full-stack web development, including responsive web design
-- 🐍 I'm quite fluent in Python
+- 👀 I’m interested in games, Ethereum dapps, and full stack.
+- 🐘 I know basic server-side web development, including being able to navigate mySQL.
+- 💻 I know intermediate client-side interactive web development, and I have experience with responsive and accessible web design.
+- 🐍 I'm extremely fluent in Python
+- 🧊 I know basic Node.js
+- 🥭 I have had a small amount of experience with MongoDB
 - ☕ I know basic Java
 
 <!---
